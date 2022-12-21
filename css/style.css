@@ -1,0 +1,63 @@
+img,video{
+    width: auto; 
+    max-width: 100%; 
+    height: auto;
+}
+
+.anime_poster {
+  width: 300px;
+  display: inline-block;
+  margin-right: 25px;
+  margin-bottom: 15px;
+}
+
+.trad_art{
+  width: 300px;
+  margin-bottom: 5px;
+  margin-top: 10px
+}
+
+.dig_art{
+  width: 700px;
+  margin-bottom: 5px;
+  margin-top: 10px
+}
+
+.dig_art1{
+  width: 300px;
+  margin-bottom: 5px;
+  margin-top: 10px
+}
+
+.tattoos{
+  width: 200px;
+  margin-bottom: 5px;
+  margin-top: 10px
+}
+
+.tattoos1{
+  width: 400px;
+  margin-bottom: 5px;
+  margin-top: 10px
+}
+
+.games{
+  width: 300px;
+  margin-bottom: -10px;
+
+}
+
+.games1{
+  width: 500px;
+  margin-bottom: -10px;
+
+}
+
+body{
+  color: black;
+  background-color: lightgray
+}
+h1{
+  color: #8B0000
+}
+
